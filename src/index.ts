@@ -147,3 +147,7 @@ function namgetUserAddresse(user: { address?: { city?: string } }): string {
 }
 let result = namgetUserAddresse({ address: { city: "newyork" } });
 let result1 = namgetUserAddresse({});
+
+
+//question 8
+let a:number
